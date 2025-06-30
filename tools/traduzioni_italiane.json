@@ -1,0 +1,482 @@
+[
+  {
+    "code": 1000,
+    "icon": 113,
+    "day": "Sunny",
+    "night": "Clear",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Soleggiato",
+    "night_text": "Sereno"
+  },
+  {
+    "code": 1003,
+    "icon": 116,
+    "day": "Partly Cloudy",
+    "night": "Partly Cloudy",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Parzialmente nuvoloso",
+    "night_text": "Parzialmente nuvoloso"
+  },
+  {
+    "code": 1006,
+    "icon": 119,
+    "day": "Cloudy",
+    "night": "Cloudy",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nuvoloso",
+    "night_text": "Nuvoloso"
+  },
+  {
+    "code": 1009,
+    "icon": 122,
+    "day": "Overcast",
+    "night": "Overcast",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Coperto",
+    "night_text": "Coperto"
+  },
+  {
+    "code": 1030,
+    "icon": 143,
+    "day": "Mist",
+    "night": "Mist",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Foschia",
+    "night_text": "Foschia"
+  },
+  {
+    "code": 1063,
+    "icon": 176,
+    "day": "Patchy rain nearby",
+    "night": "Patchy rain nearby",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia a tratti nelle vicinanze",
+    "night_text": "Pioggia a tratti nelle vicinanze"
+  },
+  {
+    "code": 1066,
+    "icon": 179,
+    "day": "Patchy snow nearby",
+    "night": "Patchy snow nearby",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve a tratti nelle vicinanze",
+    "night_text": "Neve a tratti nelle vicinanze"
+  },
+  {
+    "code": 1069,
+    "icon": 182,
+    "day": "Patchy sleet nearby",
+    "night": "Patchy sleet nearby",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nevischio a tratti nelle vicinanze",
+    "night_text": "Nevischio a tratti nelle vicinanze"
+  },
+  {
+    "code": 1072,
+    "icon": 185,
+    "day": "Patchy freezing drizzle nearby",
+    "night": "Patchy freezing drizzle nearby",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioviggine congelantesi a tratti nelle vicinanze",
+    "night_text": "Pioviggine congelantesi a tratti nelle vicinanze"
+  },
+  {
+    "code": 1087,
+    "icon": 200,
+    "day": "Thundery outbreaks in nearby",
+    "night": "Thundery outbreaks in nearby",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni temporalesche nelle vicinanze",
+    "night_text": "Precipitazioni temporalesche nelle vicinanze"
+  },
+  {
+    "code": 1114,
+    "icon": 227,
+    "day": "Blowing snow",
+    "night": "Blowing snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Turbinio di neve",
+    "night_text": "Turbinio di neve"
+  },
+  {
+    "code": 1117,
+    "icon": 230,
+    "day": "Blizzard",
+    "night": "Blizzard",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Blizzard",
+    "night_text": "Blizzard"
+  },
+  {
+    "code": 1135,
+    "icon": 248,
+    "day": "Fog",
+    "night": "Fog",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nebbia",
+    "night_text": "Nebbia"
+  },
+  {
+    "code": 1147,
+    "icon": 260,
+    "day": "Freezing fog",
+    "night": "Freezing fog",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nebbia congelantesi",
+    "night_text": "Nebbia congelantesi"
+  },
+  {
+    "code": 1150,
+    "icon": 263,
+    "day": "Patchy light drizzle",
+    "night": "Patchy light drizzle",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioviggine debole a tratti",
+    "night_text": "Pioviggine debole a tratti"
+  },
+  {
+    "code": 1153,
+    "icon": 266,
+    "day": "Light drizzle",
+    "night": "Light drizzle",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioviggine debole",
+    "night_text": "Pioviggine debole"
+  },
+  {
+    "code": 1168,
+    "icon": 281,
+    "day": "Freezing drizzle",
+    "night": "Freezing drizzle",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioviggine congelantesi",
+    "night_text": "Pioviggine congelantesi"
+  },
+  {
+    "code": 1171,
+    "icon": 284,
+    "day": "Heavy freezing drizzle",
+    "night": "Heavy freezing drizzle",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioviggine congelantesi forte",
+    "night_text": "Pioviggine congelantesi forte"
+  },
+  {
+    "code": 1180,
+    "icon": 293,
+    "day": "Patchy light rain",
+    "night": "Patchy light rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia debole a tratti",
+    "night_text": "Pioggia debole a tratti"
+  },
+  {
+    "code": 1183,
+    "icon": 296,
+    "day": "Light rain",
+    "night": "Light rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia debole",
+    "night_text": "Pioggia debole"
+  },
+  {
+    "code": 1186,
+    "icon": 299,
+    "day": "Moderate rain at times",
+    "night": "Moderate rain at times",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia moderata a tratti",
+    "night_text": "Pioggia moderata a tratti"
+  },
+  {
+    "code": 1189,
+    "icon": 302,
+    "day": "Moderate rain",
+    "night": "Moderate rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia moderata",
+    "night_text": "Pioggia moderata"
+  },
+  {
+    "code": 1192,
+    "icon": 305,
+    "day": "Heavy rain at times",
+    "night": "Heavy rain at times",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia forte a tratti",
+    "night_text": "Pioggia forte a tratti"
+  },
+  {
+    "code": 1195,
+    "icon": 308,
+    "day": "Heavy rain",
+    "night": "Heavy rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia forte",
+    "night_text": "Pioggia forte"
+  },
+  {
+    "code": 1198,
+    "icon": 311,
+    "day": "Light freezing rain",
+    "night": "Light freezing rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia congelantesi debole",
+    "night_text": "Pioggia congelantesi debole"
+  },
+  {
+    "code": 1201,
+    "icon": 314,
+    "day": "Moderate or heavy freezing rain",
+    "night": "Moderate or heavy freezing rain",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia congelantesi moderata o forte",
+    "night_text": "Pioggia congelantesi moderata o forte"
+  },
+  {
+    "code": 1204,
+    "icon": 317,
+    "day": "Light sleet",
+    "night": "Light sleet",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nevischio debole",
+    "night_text": "Nevischio debole"
+  },
+  {
+    "code": 1207,
+    "icon": 320,
+    "day": "Moderate or heavy sleet",
+    "night": "Moderate or heavy sleet",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Nevischio moderato o forte",
+    "night_text": "Nevischio moderato o forte"
+  },
+  {
+    "code": 1210,
+    "icon": 323,
+    "day": "Patchy light snow",
+    "night": "Patchy light snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve debole a tratti",
+    "night_text": "Neve debole a tratti"
+  },
+  {
+    "code": 1213,
+    "icon": 326,
+    "day": "Light snow",
+    "night": "Light snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve debole",
+    "night_text": "Neve debole"
+  },
+  {
+    "code": 1216,
+    "icon": 329,
+    "day": "Patchy moderate snow",
+    "night": "Patchy moderate snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve moderata a tratti",
+    "night_text": "Neve moderata a tratti"
+  },
+  {
+    "code": 1219,
+    "icon": 332,
+    "day": "Moderate snow",
+    "night": "Moderate snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve moderata",
+    "night_text": "Neve moderata"
+  },
+  {
+    "code": 1222,
+    "icon": 335,
+    "day": "Patchy heavy snow",
+    "night": "Patchy heavy snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve forte a tratti",
+    "night_text": "Neve forte a tratti"
+  },
+  {
+    "code": 1225,
+    "icon": 338,
+    "day": "Heavy snow",
+    "night": "Heavy snow",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve forte",
+    "night_text": "Neve forte"
+  },
+  {
+    "code": 1237,
+    "icon": 350,
+    "day": "Ice pellets",
+    "night": "Ice pellets",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia gelata",
+    "night_text": "Pioggia gelata"
+  },
+  {
+    "code": 1240,
+    "icon": 353,
+    "day": "Light rain shower",
+    "night": "Light rain shower",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni piovose deboli",
+    "night_text": "Precipitazioni piovose deboli"
+  },
+  {
+    "code": 1243,
+    "icon": 356,
+    "day": "Moderate or heavy rain shower",
+    "night": "Moderate or heavy rain shower",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni piovose moderate o forti",
+    "night_text": "Precipitazioni piovose moderate o forti"
+  },
+  {
+    "code": 1246,
+    "icon": 359,
+    "day": "Torrential rain shower",
+    "night": "Torrential rain shower",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni piovose torrenziali",
+    "night_text": "Precipitazioni piovose torrenziali"
+  },
+  {
+    "code": 1249,
+    "icon": 362,
+    "day": "Light sleet showers",
+    "night": "Light sleet showers",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni deboli di nevischio",
+    "night_text": "Precipitazioni deboli di nevischio"
+  },
+  {
+    "code": 1252,
+    "icon": 365,
+    "day": "Moderate or heavy sleet showers",
+    "night": "Moderate or heavy sleet showers",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni di nevischio moderate o forti",
+    "night_text": "Precipitazioni di nevischio moderate o forti"
+  },
+  {
+    "code": 1255,
+    "icon": 368,
+    "day": "Light snow showers",
+    "night": "Light snow showers",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni nevose leggere",
+    "night_text": "Precipitazioni nevose leggere"
+  },
+  {
+    "code": 1258,
+    "icon": 371,
+    "day": "Moderate or heavy snow showers",
+    "night": "Moderate or heavy snow showers",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni nevose moderate o leggere",
+    "night_text": "Precipitazioni nevose moderate o leggere"
+  },
+  {
+    "code": 1261,
+    "icon": 374,
+    "day": "Light showers of ice pellets",
+    "night": "Light showers of ice pellets",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni deboli di pioggia gelata",
+    "night_text": "Precipitazioni deboli di pioggia gelata"
+  },
+  {
+    "code": 1264,
+    "icon": 377,
+    "day": "Moderate or heavy showers of ice pellets",
+    "night": "Moderate or heavy showers of ice pellets",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Precipitazioni moderate o forti di pioggia gelata",
+    "night_text": "Precipitazioni moderate o forti di pioggia gelata"
+  },
+  {
+    "code": 1273,
+    "icon": 386,
+    "day": "Patchy light rain in area with thunder",
+    "night": "Patchy light rain in area with thunder",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia debole a tratti in zona e tuoni",
+    "night_text": "Pioggia debole a tratti in zona e tuoni"
+  },
+  {
+    "code": 1276,
+    "icon": 389,
+    "day": "Moderate or heavy rain in area with thunder",
+    "night": "Moderate or heavy rain in area with thunder",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Pioggia moderata o forte in zona e tuoni",
+    "night_text": "Pioggia moderata o forte in zona e tuoni"
+  },
+  {
+    "code": 1279,
+    "icon": 392,
+    "day": "Patchy light snow in area with thunder",
+    "night": "Patchy light snow in area with thunder",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve debole a tratti in zona e tuoni",
+    "night_text": "Neve debole a tratti in zona e tuoni"
+  },
+  {
+    "code": 1282,
+    "icon": 395,
+    "day": "Moderate or heavy snow in area with thunder",
+    "night": "Moderate or heavy snow in area with thunder",
+    "lang_name": "Italian",
+    "lang_iso": "it",
+    "day_text": "Neve moderata o forte in zona e tuoni",
+    "night_text": "Neve moderata o forte in zona e tuoni"
+  }
+]

@@ -1,0 +1,22 @@
+.dati meteo x
+.impaginazione css x
+
+.sfondi
+sfondi notte css x
+sfondo giorno css __
+sfondo alba __
+sfondo tramonto x
+animazione change giorno notte 50%
+
+.mascotte
+mascotte 1 x
+mascotte pioggia __
+mascotte neve __
+mascotte caldo __
+cambio mascotte per meteo diverso __
+
+animazione meteo __..
+
+cicli lunari cambio luna per i diversi cicli lunari __..
+
+responsive__..

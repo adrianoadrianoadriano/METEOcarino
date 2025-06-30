@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Meteo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body background-color="lightblue">
+    
+    <!--meteoapp-->
+    <div class="contenitore">
+        <div class="input">
+        <input  type="text" id="cittaInput" placeholder="Inserisci città" />
+        <button onclick="caricaMeteo()">Cerca</button></div>
+        <div class="luna"></div>
+        <div class="info">
+            <p><span>Condizioni:</span> <span id="condizione">-</span></p>
+            <p><span>Luogo:</span> <span id="luogo">-</span></p>
+            <p><span>Data:</span> <span id="data">-</span></p>
+            <p><span>Temperatura:</span> <span id="temp">-</span></p>
+            <p><span>Massima:</span> <span id="temp-max">-</span></p>
+            <p><span>Minima:</span> <span id="temp-min">-</span></p>
+        </div>
+    </div>
+          <div class="head-container">
+            <!--mascotte-->
+          <div class="head">
+            <div class="orecchio orecchio-dx"></div>
+            <div class="orecchio orecchio-sx"></div>
+            <div class="occhio occhio-dx"></div>
+            <div class="occhio occhio-sx"></div>
+            <div class="muso"></div>
+            <div class="naso"></div>
+            <div class="bocca"></div>
+          </div>
+          </div>
+        </div>
+      </div>
+      
+   <script src="script.js"></script>
+</body>
+</html>
