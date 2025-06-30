@@ -58,10 +58,11 @@ meteo/
 ├── index.html              # Frontend
 ├── script.js              # Logica frontend
 ├── style.css              # Stili CSS
-├── meteo.env.example      # Template configurazione
+configurazione
 ├── README.md              # Questo file
 └── meteo backend/
-    ├── index.js           # Server backend
+    ├── index.js      # Server backend
+    ├── meteo.env.example     #Template 
     ├── package.json       # Dipendenze Node.js
     └── node_modules/      # Dipendenze installate
 ```
@@ -82,4 +83,4 @@ meteo/
 Questo progetto è sotto licenza MIT.
 
 ## Autore
-Il tuo nome - [@tuo-username](https://github.com/tuo-username)
+Il tuo nome - [@adrianoadrianoadriano](https://github.com/adrianoadrianoadriano)
