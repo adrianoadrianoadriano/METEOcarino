@@ -7,7 +7,7 @@ Un'applicazione web semplice per visualizzare le previsioni meteo utilizzando l'
 - 📊 Visualizzazione temperatura attuale, massima e minima
 - 🎨 Interfaccia con mascotte animata
 - 🌐 Supporto multilingua (italiano)
-
+[Guarda il video demo](lama3.mp4)
 ## Prerequisiti
 - Node.js (versione 18 o superiore)
 - Account gratuito su [WeatherAPI](https://www.weatherapi.com/)
